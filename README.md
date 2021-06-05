@@ -1,1 +1,1 @@
-"# FinalExamination Osman Can ˜SK˜T" 
+"# FinalExamination Osman Can Ä°SKÄ°T" 
