@@ -34,7 +34,7 @@
                             value="{{old('department')}}">
                             
                         </div>
-                        <button type="submit" class="btn btn-block btn-primary">Sign Up</button>
+                        <button type="submit" class="btn btn-block btn-primary">Add Student</button>
                         <br>
                         
                     </form>
